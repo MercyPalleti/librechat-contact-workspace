@@ -187,6 +187,7 @@ const startServer = async () => {
   /** Error handler (must be last - Express identifies error middleware by its 4-arg signature) */
   app.use(ErrorController);
 
+  const host = process.env.HOST || '0.0.0.0';
   app.listen(port, host, async (err) => {
     if (err) {
       logger.error('Failed to start server:', err);
