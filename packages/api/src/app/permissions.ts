@@ -7,7 +7,7 @@ import {
   getConfigDefaults,
 } from 'librechat-data-provider';
 import type { IRole, AppConfig } from '@librechat/data-schemas';
-import { isMemoryEnabled } from '~/memory/config';
+//import { isMemoryEnabled } from '~/memory/config';
 
 /**
  * Checks if a permission type has explicit configuration
@@ -71,7 +71,8 @@ export async function updateInterfacePermissions({
   /** Configured values for interface object structure */
   const interfaceConfig = appConfig?.config?.interface;
   const memoryConfig = appConfig?.config?.memory;
-  const memoryEnabled = isMemoryEnabled(memoryConfig);
+  //const memoryEnabled = isMemoryEnabled(memoryConfig);
+  const memoryEnabled = false;
   /** Check if memory is explicitly disabled (memory.disabled === true) */
   const isMemoryExplicitlyDisabled = memoryConfig?.disabled === true;
   /** Check if memory should be enabled (explicitly enabled or valid config) */
