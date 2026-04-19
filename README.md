@@ -20,10 +20,10 @@ This repository contains the implementation of a full-stack **Contact Workspace*
   - *"Who works at Acme Corp?"*
   - *"List all CTOs in my network."*
   - *"What are the interests of John Doe?"*
-<img width="1365" height="598" alt="Screenshot 2026-03-21 140335" src="https://github.com/user-attachments/assets/270865be-63b9-40d0-b899-eaf088c34886" />
-<img width="1364" height="604" alt="Screenshot 2026-03-21 140325" src="https://github.com/user-attachments/assets/6e434b1f-da3e-4260-bb64-eeeaaae9fda2" />
-<img width="1364" height="602" alt="Screenshot 2026-03-21 140412" src="https://github.com/user-attachments/assets/6e26f93c-ee5c-46b8-adb8-63c05db03ddb" />
-<img width="1361" height="600" alt="image" src="https://github.com/user-attachments/assets/1104d13a-0c0d-46a9-98b7-d814463785e3" />
+
+<img width="1920" height="1080" alt="Screenshot (785)" src="https://github.com/user-attachments/assets/77faefcd-deaf-4244-a104-12adb28afaea" />
+
+<img width="1920" height="1080" alt="Screenshot (786)" src="https://github.com/user-attachments/assets/e7531ee4-e92f-4010-9433-c57cc68a3d7a" />
 
 ---
 
