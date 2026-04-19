@@ -1,5 +1,13 @@
-to login use credentials: user@example.com password:12345678
+ Authentication Note
 
+Since public registration is restricted in this setup, new users cannot sign up directly.
+
+To access the application, use the following demo credentials:
+
+Email: user@example.com
+Password: 12345678
+
+Note: Signup requires an invitation, so the above credentials are provided for testing and evaluation purposes.
 
 # LibreChat: Contact Workspace Integration
 
