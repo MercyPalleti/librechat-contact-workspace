@@ -1,3 +1,6 @@
+to login use credentials: user@example.com password:12345678
+
+
 # LibreChat: Contact Workspace Integration
 
 This repository contains the implementation of a full-stack **Contact Workspace** for LibreChat. It enables seamless integration between structured contact data and the AI assistant, allowing users to query their network using natural language.
